@@ -855,6 +855,7 @@ Verb's functionality can be extended via some related packages, such as:
   - Licensing (GPLv3 vs. Public domain).
 - [walkman](https://github.com/abrochard/walkman): Write HTTP requests in Org mode and send them using `curl`.
 - [http.el](https://github.com/emacs-pe/http.el): I have not tested this package, so I can't provide a comparison.
+- [ob-http](https://github.com/zweifisch/ob-http): Allows to write requests in src-blocks instead of extending Org mode.
 
 ## License
 
